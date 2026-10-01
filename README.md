@@ -147,26 +147,7 @@ Possible future improvements include:
 
 ---
 
-## 📸 Project Preview
 
-Add screenshots of your website here:
-
-```text
-Homepage
-About Section
-Events
-Volunteer Section
-Donation Section
-Contact Page
-```
-
-You can upload screenshots to GitHub and add them using:
-
-```markdown
-![Feeding Hands Homepage](images/homepage.png)
-```
-
----
 
 ## 💡 What I Learned
 
