@@ -59,7 +59,7 @@ Feeding-Hands/
 └── README.md
 ```
 
-> The exact file structure may vary depending on the final project implementation.
+
 
 ---
 
